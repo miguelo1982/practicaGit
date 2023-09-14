@@ -1,3 +1,1 @@
-copy con practicaGit.py
-dir
-exit
+print ("Hola nuevamente")
